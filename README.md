@@ -51,4 +51,4 @@ Collaborative Python project implementing the classic Minesweeper game.
 
 **Research:** Computational Research · Data Analysis · Experimental Methods
 
-**Tools:** Git · GitHub · LaTeX · Overleaf
+**Tools:** Git · GitHub · LaTeX · Overleaf · Gate 
