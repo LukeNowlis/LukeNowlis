@@ -16,7 +16,7 @@ Development of a mathematical optimization models for uses in optimal Transit
 
 ---
 
-### 🔬 Image Processing with Partial Differential Equations
+### 🖼️ Image Processing with Partial Differential Equations
 
 Collaborative research project from the Summer Undergraduate Research Experience involving the development of image-processing tools using Python and partial differential equations.
 
