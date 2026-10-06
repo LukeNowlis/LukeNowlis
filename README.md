@@ -28,11 +28,12 @@ Collaborative research project from the Summer Undergraduate Research Experience
 
 ### ☢️ Medical Physics Research
 
-Research involving the development and testing of dosimeters in a medical physics laboratory. Code is for post processing of the data. 
+Research involving the development and testing of dosimeters in a medical physics laboratory. The code in this repository is used for post-processing and analyzing experimental data.
 
-**Methods:** Experimental Research · Data Analysis · Scientific Computing
+**Methods:** Experimental Research · Data Analysis · Scientific Computing · Python
 
-*Research materials coming soon.*
+[View project →](https://github.com/LukeNowlis/Summer-Rad)
+
 
 
 ## Collaborative Projects
