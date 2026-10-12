@@ -2,7 +2,7 @@
 
 **Economics & Applied Mathematics · Loyola University Chicago**
 
-I am a junior double majoring in Economics and Applied Mathematics at Loyola University Chicago. I am interested in economic modeling, mathematical optimization, and using computational methods to solve complex problems.
+I am a Junior double majoring in Economics and Applied Mathematics at Loyola University Chicago. I am interested in economic modeling, mathematical optimization, and using computational methods to solve complex problems.
 
 ## Featured Projects
 
